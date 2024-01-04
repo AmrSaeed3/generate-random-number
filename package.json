@@ -4,7 +4,7 @@
   "description": "Generate Random Number any digit you want",
   "main": "index.js",
   "scripts": {
-    "test": "const num = require(\"generate-random-number\"); const randomNumber=num.generateRandomNumber(5);"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
