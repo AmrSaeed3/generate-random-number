@@ -9,9 +9,8 @@ console.log(`output : ${number}`)
 console.log(`output : ${number2}`)
 console.log(`output : ${number3}`)
 
-## OutPut
+// OutPut
 
-```javascript
 output : 788
 output : 719143
 output : 7308617565
