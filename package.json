@@ -1,6 +1,6 @@
 {
   "name": "gdnum",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Generate Random Number any digit you want",
   "main": "index.js",
   "scripts": {
