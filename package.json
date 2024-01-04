@@ -1,0 +1,18 @@
+{
+  "name": "generate-random-number",
+  "version": "1.0.0",
+  "description": "Generate Random Number any digit you want",
+  "main": "index.js",
+  "scripts": {
+    "test": "const num = require(\"generate-random-number\"); const randomNumber=num.generateRandomNumber(5);"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AmrSaeed3/generate-random-number.git"
+  },
+  "keywords": [
+    "generate-random-number"
+  ],
+  "author": "amr",
+  "license": "ISC"
+}
