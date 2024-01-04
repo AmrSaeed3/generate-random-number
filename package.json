@@ -1,5 +1,5 @@
 {
-  "name": "generate-random-number",
+  "name": "gdnumber",
   "version": "1.0.0",
   "description": "Generate Random Number any digit you want",
   "main": "index.js",
@@ -14,5 +14,5 @@
     "generate-random-number"
   ],
   "author": "amr",
-  "license": "ISC" 
+  "license": "ISC"
 }
