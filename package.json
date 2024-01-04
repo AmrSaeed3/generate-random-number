@@ -1,5 +1,5 @@
 {
-  "name": "gdnumber",
+  "name": "gdnum",
   "version": "1.0.0",
   "description": "Generate Random Number any digit you want",
   "main": "index.js",
