@@ -24,6 +24,6 @@
     // إرجاع الرقم العشوائي
     return randomNumber;
   }
-  return generateRandomNumber;
+  return {generateRandomNumber : generateRandomNumber}  ;
 });
 
